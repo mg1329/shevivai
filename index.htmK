@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+	<title>שביבי אש</title>
+	<link rel="stylesheet" href="menu-style.css" type="text/css" />
+</head>
+<body>
+<center>
+<img  id="Pic" height=374 width=240 src="./shevivAish.png"  alt="Shevivai Aish Cover"></div>
+
+<br>
+<div style="text-align: center;"><span class="c2">
+     Hebrew text along with English
+translations by David Glasner </span>  
+<p></p>
+<div><span class="c1">
+To view text move the mouse over the red letters and lists will
+appear<br>
+Continue moving the mouse down the lists to click on your choice or
+its translation</span>  
+</div>
+
+<div style="text-align: center;  padding-left: 30px;">
+
+<ul id="nav" >
+        <li><a href="./RD/RoshDovor5.html" target="_blank">ראש דבר</a>			</li>						
+    	<li><a href="#">על התורה</a>
+	     <ul>
+                <li><a href="#">חומש בראשית</a>
+	        	<ul>
+			     <li><a href="./Heb/breishit5.html" target="_blank">לסדר בראשית</a>
+ 			        <ul>
+					<li><a href="./Eng/breishit-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+			     <li><a href="./Heb/noach5.html" target="_blank">לסדר נח</a>
+							<ul>
+					<li><a href="./Eng/noach-t5.html" target="_blank">Translation</a></li>
+				</ul> 			</li>
+			     <li><a href="./Heb/lekhlha5.html" target="_blank">לסדר לך לך</a>
+				<ul>
+					<li><a href="./Eng/lekhlha-t5.html" target="_blank">Translation</a></li>
+				</ul> 			</li>
+                 	     <li><a href="./Heb/vayeira5.html" target="_blank">לסדר וירא</a> 
+       				<ul>
+					<li><a href="./Eng/vayeira-t5.html" target="_blank">Translation</a></li>
+				</ul> 			</li>
+			     <li><a href="./Heb/hayeisarah5.html" target="_blank">לסדר חיי שרה</a> 
+			            				<ul>
+					<li><a href="./Eng/hayeisarah-t5.html" target="_blank">Translation</a></li>
+				</ul> 			</li>
+			     <li><a href="./Heb/toldot5.html" target="_blank">לסדר תולדות</a> 
+			            				<ul>
+					<li><a href="./Eng/toldot5-t5.html" target="_blank">Translation</a></li>
+				</ul> 			</li>
+			     <li><a href="./Heb/vayeitzei5.html" target="_blank">לסדר ויצא</a>
+			            				<ul>
+					<li><a href="./Eng/vayeitzei-t5.html" target="_blank">Translation</a></li>
+				</ul> 			</li>
+			     <li><a href="./Heb/vayishlah5.html" target="_blank">לסדר וישלח</a>
+			            				<ul>
+					<li><a href="./Eng/vayishlah-t5.html" target="_blank">Translation</a></li>
+				</ul> 			</li>
+			     <li><a href="./Heb/vayeishev5.html" target="_blank">לסדר וישב</a> 
+			            				<ul>
+					<li><a href="./Eng/vayeishev-t5.html" target="_blank">Translation</a></li>
+				</ul> 			</li>
+			     <li><a href="./Heb/miqeitz5.html" target="_blank">לסדר מקץ</a> 
+			            				<ul>
+					<li><a href="./Eng/miqeitz-t5.html" target="_blank">Translation</a></li>
+				</ul> 			</li>
+			     <li><a href="./Heb/vayigash5.html" target="_blank">לסדר ויגש</a> 
+			            				<ul>
+					<li><a href="./Eng/vayigash-t5.html" target="_blank">Translation</a></li>
+				</ul> 			</li>
+			     <li><a href="./Heb/vayhi5.html" target="_blank">לסדר ויחי</a> 
+			            				<ul>
+					<li><a href="./Eng/vayhi-t5.html" target="_blank">Translation</a></li>
+				</ul> 			</li>
+		        </ul>
+	          </li>
+	         <li><a href="#">חומש שמות</a>			
+		       <ul>
+		       <li><a href="./Heb/shemot5.html" target="_blank">לסדר שמות</a>
+ 			        <ul>
+					<li><a href="./Eng/shemot-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+		       <li><a href="./Heb/vaeira5.html" target="_blank">לסדר וארא</a>
+ 			        <ul>
+					<li><a href="./Eng/vaeira-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+                        <li><a href="./Heb/bo5.html" target="_blank">לסדר בא</a>
+ 			        <ul>
+					<li><a href="./Eng/bo-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+		       <li><a href="./Heb/bshalah5.html" target="_blank">לסדר בשלח</a>
+ 			        <ul>
+					<li><a href="./Eng/bshalah-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>	
+                        <li><a href="./Heb/yitro5.html" target="_blank">לסדר יתרו</a>
+ 			        <ul>
+					<li><a href="./Eng/yitro-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+		       <li><a href="./Heb/mishpatim5.html" target="_blank">לסדר משפמים</a>
+ 			        <ul>
+					<li><a href="./Eng/mishpatim-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>	
+                        <li><a href="./Heb/terumah5.html" target="_blank">לסדר תרומה</a>
+ 			        <ul>
+					<li><a href="./Eng/terumah-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+		       <li><a href="./Heb/tezaveh5.html" target="_blank">לסדר תצוה</a>
+ 			        <ul>
+					<li><a href="./Eng/tezaveh-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>	
+                        <li><a href="./Heb/kitisa5.html" target="_blank">לסדר כי תשא</a>
+ 			        <ul>
+					<li><a href="./Eng/kitisa-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+		       <li><a href="./Heb/vayakhel5.html" target="_blank">לסדר ויקהל</a>
+ 			        <ul>
+					<li><a href="./Eng/vayakhel-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>	
+		       <li><a href="./Heb/pequdei5.html" target="_blank">לסדר פקודי</a>
+ 			        <ul>
+					<li><a href="./Eng/pequdei-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>					
+			</ul>
+			</li>
+                 <li><a href="#">חומש ויקרא</a>			
+		       <ul>
+                        <li><a href="./Heb/vayiqra5.html" target="_blank">לסדר ויקרא</a>
+ 			        <ul>
+					<li><a href="./Eng/vayiqra-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>	
+                        <li><a href="./Heb/tzav5.html" target="_blank">לסדר צו</a>
+ 			        <ul>
+					<li><a href="./Eng/tzav-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+		       <li><a href="./Heb/shemini5.html" target="_blank">לסדר שמיני</a>
+ 			        <ul>
+					<li><a href="./Eng/shemini-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>	
+		       <li><a href="./Heb/tazria5.html" target="_blank">לסדר תזריע</a>
+ 			        <ul>
+					<li><a href="./Eng/tazria-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+		       <li><a href="./Heb/metzora5.html" target="_blank">לסדר מצורע</a>
+ 			        <ul>
+					<li><a href="./Eng/metzora-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+		       <li><a href="./Heb/ahareimot5.html" target="_blank">לסדר אחרי מות</a>
+ 			        <ul>
+					<li><a href="./Eng/ahareimot-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+		       <li><a href="./Heb/kedoshim5.html" target="_blank">לסדר  קדושים</a>
+ 			        <ul>
+					<li><a href="./Eng/kedoshim-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+		       <li><a href="./Heb/emor5.html" target="_blank">לסדר אמור</a>
+ 			        <ul>
+					<li><a href="./Eng/emor-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+                       <li><a href="./Heb/behar5.html" target="_blank">לסדר בהר</a>
+ 			        <ul>
+					<li><a href="./Eng/behar-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+                       <li><a href="./Heb/bhukotai5.html" target="_blank">לסדר בחוקותי</a>
+ 			        <ul>
+					<li><a href="./Eng/bhukotai-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>				
+			
+			</ul>
+			</li>
+	         <li><a href="#">חומש במדבר</a>
+		        <ul>
+		        <li><a href="./Heb/bamidbar5.html" target="_blank">לסדר במדבר</a>
+ 			        <ul>
+					<li><a href="./Eng/bamidbar-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+			<li><a href="./Heb/naso5.html" target="_blank">לסדר נשא</a>
+ 			        <ul>
+					<li><a href="./Eng/naso-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+			<li><a href="./Heb/bhaalotkha5.html" target="_blank">לסדר בהעלתך</a>
+ 			        <ul>
+					<li><a href="./Eng/bhaalotkha-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+        		<li><a href="./Heb/shlach5.html" target="_blank">לסדר שלח</a>
+ 			        <ul>
+					<li><a href="./Eng/shlach-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>	
+                        <li><a href="./Heb/korah5.html" target="_blank">לסדר קרח</a>
+ 			        <ul>
+					<li><a href="./Eng/korah-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>	
+                        <li><a href="./Heb/huqat5.html" target="_blank">לסדר חקת</a>
+ 			        <ul>
+					<li><a href="./Eng/huqat-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>	
+                        <li><a href="./Heb/balaq5.html" target="_blank">לסדר בלק</a>
+ 			        <ul>
+					<li><a href="./Eng/balaq-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>	
+                        <li><a href="./Heb/pinhas5.html" target="_blank">לסדר פנחס</a>
+ 			        <ul>
+					<li><a href="./Eng/pinhas-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>	
+                        <li><a href="./Heb/matot5.html" target="_blank">לסדר מטות</a>
+ 			        <ul>
+					<li><a href="./Eng/matot-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>	
+                        <li><a href="./Heb/masei5.html" target="_blank">לסדר מסעי</a>
+ 			        <ul>
+					<li><a href="./Eng/masei-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>	
+	                </ul>	 
+		        </li>
+			
+			
+
+
+
+
+
+
+
+
+
+                 <li><a href="#">חומש דברים</a>
+	                 <ul>	 
+		                <li><a href="./Heb/dvarim5.html" target="_blank">לסדר דברים</a>
+ 			        <ul>
+					<li><a href="./Eng/dvarim-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+			<li><a href="./Heb/vaethanan5.html" target="_blank">לסדר ואתחנן</a>
+ 			        <ul>
+					<li><a href="./Eng/vaethanan-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+			<li><a href="./Heb/eiqev5.html" target="_blank">לסדר עקב</a>
+ 			        <ul>
+					<li><a href="./Eng/eiqev-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+        		<li><a href="./Heb/reih5.html" target="_blank">לסדר ראה</a>
+ 			        <ul>
+					<li><a href="./Eng/reih-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>	
+                        <li><a href="./Heb/shoftim5.html" target="_blank">לסדר שופטים</a>
+ 			        <ul>
+					<li><a href="./Eng/shoftim-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>	
+                        <li><a href="./Heb/kiteitzei5.html" target="_blank">לסדר כי תצא</a>
+ 			        <ul>
+					<li><a href="./Eng/kiteitzei-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>	
+                        <li><a href="./Heb/kitavo5.html" target="_blank">לסדר כי תבוא</a>
+ 			        <ul>
+					<li><a href="./Eng/kitavo-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>	
+                        <li><a href="./Heb/nitzavim5.html" target="_blank">לסדר ניצבים</a>
+ 			        <ul>
+					<li><a href="./Eng/nitzavim-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>	
+                        <li><a href="./Heb/vayeilekh5.html" target="_blank">לסדר וילך</a>
+ 			        <ul>
+					<li><a href="./Eng/vayeilekh-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>	
+                        <li><a href="./Heb/haazinu5.html" target="_blank">לסדר האזינו</a>
+ 			        <ul>
+					<li><a href="./Eng/haazinu-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>	
+                        <li><a href="./Heb/vzothabrakha5.html" target="_blank">לסדר וזאת הברכה</a>
+ 			        <ul>
+					<li><a href="./Eng/vzothabrakha-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+			            </ul>
+		        </li>						
+                 <li><a href="./Heb/smihat5.html" target="_blank">סמיכות סיום התורה לתחילתה</a>
+		          <ul>
+					<li><a href="./Eng/smihat-t5.html" target="_blank">Translation</a></li>
+			 </ul>	</li>
+                 <li><a href="./Eng/appendix.html">Appendix</a>	</li>						
+            </ul>
+        <li><a href="#">על חגים וזמנים</a>			
+                 <ul>
+		 	     <li><a href="./Heb/roshhashanah5.html" target="_blank">ראש השנה</a>
+ 			        <ul>
+					<li><a href="./Eng/roshhashanah-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+                             <li><a href="./Heb/yomkippur5.html" target="_blank">יום הכיפורים</a>
+ 			        <ul>
+					<li><a href="./Eng/yomkippur-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+			     <li><a href="./Heb/sukkot5.html" target="_blank">לחג הסוכות </a>
+ 			        <ul>
+					<li><a href="./Eng/sukkot-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+	                     <li><a href="./Heb/chanuka5.html" target="_blank">ימי החנוכה</a>
+ 			        <ul>
+					<li><a href="./Eng/chanuka-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+                             <li><a href="./Heb/pesach-t5.html" target="_blank">לחג הפסח</a>
+ 			        <ul>
+					<li><a href="./Eng/pesach-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+			     <li><a href="./Heb/shavuout5.html" target="_blank">לחג השבועות</a>
+ 			        <ul>
+					<li><a href="./Eng/shavuout-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+                             <li><a href="./Heb/yomhatz5.html"target="_blank">Appendix</a>
+ 			        <ul>
+				    <li><a href="./Eng/yomhatz-t5.html" target="_blank">תוספת</a></li>
+                  			</li>
+                             <li><a href="./Heb/yomhatz5.html" target="_blank">יום העצמאות</a>
+ 			         <ul>
+					<li><a href="./Eng/yomhatz-t5.html" target="_blank">Translation</a></li>
+				</ul>			</li>
+		</ul>
+		</ul>
+	</li>
+        <li><a href="#">חידושי הלכות</a>									
+         <ul>
+	     <li><a href="#">לקוטים</a>		
+	</ul>	</li>						
+
+</ul></div>
+    <p>
+<!--
+<img id="Pic" height=738 width=435 src="./shevivai-aish-pg1-1.jpg" alt="Shevivai Aish Cover"></div>
+
+<img id="Pic" height=759 width=487 src="./shevivAish.png" alt="Shevivai Aish Cover"></div>
+-->
+
+<!--
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js" type="text/javascript" charset="utf-8"></script>	
+<script src="http://jquery-ui.googlecode.com/svn/tags/latest/ui/jquery.effects.core.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/scripts.js"></script>
+-->
+
+
+</body>
+</html>	
+
+

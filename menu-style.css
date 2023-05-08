@@ -1,0 +1,94 @@
+body {
+ font-family: droid sans, helvetica, arial, sans-serif;
+ background: #f2ebe4;
+ text-align: center;
+}
+
+/* MENU */
+
+#nav {
+ background: #e5e5e5;
+ float: left;
+ margin: 20px; padding: 0px;
+ border: 1px solid white;
+ border-bottom: none;
+ margin-left: auto; margin-right: auto;
+}
+
+#nav li a, #nav li {
+ float: left;
+}
+
+#nav li {
+ list-style: none;
+ position: relative;
+}
+
+#nav li a {
+ padding: .1em 1.2em;
+ text-decoration: none;
+ color: red;
+ background: #292929;
+ border-right: 1px solid #3c3c3c;
+ border-left: 1px solid #292929;
+ border-bottom: 1px solid #232323;
+ border-top: 1px solid #545454;
+}
+
+#nav li a:hover {
+ background: #2a0d65;
+}
+
+
+/* Submenu */
+
+.hasChildren {
+	position: absolute;
+	width: 5px; height: 5px;
+	background: black;
+	right : 0;
+	bottom: 0;
+}
+
+#nav li ul {
+ display: none;
+ position: absolute;
+ left: 0;
+ top: 100%;
+ padding: 0; margin: 0;
+}
+
+#nav li:hover > ul {
+ display: block;
+}
+
+#nav li ul li, #nav li ul li a {
+ float: none;
+}
+
+
+
+#nav li ul li a {
+ width: 120px;
+ display: block;
+}
+
+/* SUBSUB Menu */
+
+#nav li ul li ul {
+ display: none;
+}
+
+#nav li ul li:hover ul {
+ left: 100%;
+ top: 0;
+}
+
+
+p {text-indent: 0px; padding-left: 20px; padding-right: 20px;} 
+span.c5 { font-size: 308%; font-family: David CLM; text-shadow: 4px 4px 4px #aaa; }
+span.c4 { font-size: 256%; font-family: David CLM; text-shadow: 4px 4px 4px #aaa; }
+span.c3 { font-size: 164%; font-family: David CLM; }
+span.c2 { font-size: 132%; font-family: David CLM; }
+span.c1 { font-size: 100%; font-family: David CLM; }
+
